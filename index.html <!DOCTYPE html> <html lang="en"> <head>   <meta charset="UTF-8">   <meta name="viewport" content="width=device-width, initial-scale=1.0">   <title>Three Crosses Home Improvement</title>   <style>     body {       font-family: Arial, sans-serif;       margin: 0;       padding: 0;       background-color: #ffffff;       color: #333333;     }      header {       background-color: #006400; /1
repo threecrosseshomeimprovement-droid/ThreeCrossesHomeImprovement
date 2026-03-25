@@ -1,0 +1,297 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+  <meta charset="UTF-8">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Three Crosses Home Improvement</title>
+
+
+
+  <style>
+
+    body {
+
+      margin: 0;
+
+      font-family: Arial, sans-serif;
+
+      background-color: #f4f4f4;
+
+    }
+
+
+
+    header {
+
+      background-color: #1f4d2b;
+
+      color: white;
+
+      text-align: center;
+
+      padding: 20px;
+
+    }
+
+
+
+    header img {
+
+      width: 120px;
+
+      margin-bottom: 10px;
+
+    }
+
+
+
+    nav {
+
+      background-color: #163d22;
+
+      padding: 10px;
+
+      text-align: center;
+
+    }
+
+
+
+    nav a {
+
+      color: white;
+
+      margin: 0 10px;
+
+      text-decoration: none;
+
+      font-weight: bold;
+
+    }
+
+
+
+    section {
+
+      padding: 20px;
+
+      max-width: 900px;
+
+      margin: auto;
+
+      background: white;
+
+      margin-top: 20px;
+
+      border-radius: 8px;
+
+    }
+
+
+
+    h2 {
+
+      color: #1f4d2b;
+
+    }
+
+
+
+    ul {
+
+      list-style: none;
+
+      padding: 0;
+
+    }
+
+
+
+    ul li {
+
+      padding: 10px 0;
+
+      border-bottom: 1px solid #ddd;
+
+    }
+
+
+
+    footer {
+
+      text-align: center;
+
+      padding: 15px;
+
+      background-color: #1f4d2b;
+
+      color: white;
+
+      margin-top: 20px;
+
+    }
+
+
+
+    .contact {
+
+      text-align: center;
+
+      font-size: 18px;
+
+    }
+
+
+
+    .btn {
+
+      display: inline-block;
+
+      background: #1f4d2b;
+
+      color: white;
+
+      padding: 10px 15px;
+
+      margin-top: 10px;
+
+      text-decoration: none;
+
+      border-radius: 5px;
+
+    }
+
+  </style>
+
+</head>
+
+
+
+<body>
+
+
+
+<header>
+
+  <img src="logo.png" alt="Three Crosses Logo">
+
+  <h1>Three Crosses Home Improvement</h1>
+
+  <p>Quality Work You Can Trust</p>
+
+</header>
+
+
+
+<nav>
+
+  <a href="#services">Services</a>
+
+  <a href="#about">About</a>
+
+  <a href="#contact">Contact</a>
+
+</nav>
+
+
+
+<section id="services">
+
+  <h2>Our Services</h2>
+
+  <ul>
+
+    <li>✔ Plumbing fixture installation</li>
+
+    <li>✔ Repair water fixtures</li>
+
+    <li>✔ Roof repair</li>
+
+    <li>✔ Tile work installation</li>
+
+    <li>✔ Tile work replacement</li>
+
+    <li>✔ TV mounting</li>
+
+    <li>✔ Dryer vent cleaning</li>
+
+    <li>✔ Junk Removal</li>
+
+    <li>✔ Drywall repair</li>
+
+    <li>✔ Fan installation</li>
+
+    <li>✔ Furniture assembly</li>
+
+    <li>✔ General repairs</li>
+
+    <li>✔ Gutter cleaning</li>
+
+    <li>✔ Home maintenance & repairs</li>
+
+    <li>✔ Painting</li>
+
+  </ul>
+
+</section>
+
+
+
+<section id="about">
+
+  <h2>About Us</h2>
+
+  <p>
+
+    At Three Crosses Home Improvement, we provide reliable, high-quality
+
+    handyman services you can trust. No job is too small — we handle everything
+
+    from repairs to installations with professionalism and care.
+
+  </p>
+
+</section>
+
+
+
+<section id="contact">
+
+  <h2>Contact Us</h2>
+
+  <div class="contact">
+
+    <p>📍 Based out of Sapulpa, Oklahoma</p>
+
+    <p>📞 918-636-1683</p>
+
+    <p>📧 threecrosseshomeimprovement@gmail.com</p>
+
+
+
+    <a class="btn" href="tel:19186361683">Call Now</a><br>
+
+    <a class="btn" href="mailto:threecrosseshomeimprovement@gmail.com">Email Us</a>
+
+  </div>
+
+</section>
+
+
+
+<footer>
+
+  <p>© 2026 Three Crosses Home Improvement</p>
+
+</footer>
+
+
+
+</body>
+
+</html>
